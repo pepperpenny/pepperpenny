@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pepperpenny
 - 👀 I’m interested in cats
 - 🌱 I’m currently learning HTML & CSS
-- 💞️ I’m looking to collaborate on frontend?
+- 💞️ I’m looking to my shinest boyfriend
 - 📫 How to reach me familyyfq@gmail.com
 
 <!---
